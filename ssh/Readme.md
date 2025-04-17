@@ -12,7 +12,7 @@ lbu commit -d
 #By default, host key is regenerated every reboot. You can use the following command to store the change to sd-card.
 ```
 
-If you do not seve your static key, you would be notify that key change after each reboot.
+If you do not save your static key, you would be notify that key change after each reboot.
 
 ```
 #vi .ssh/config
