@@ -6,7 +6,9 @@
 
 [A multi-headed dumphfdl receiver for use with Web-888 devices, but unconfigure all extensions that use receiver before, it requires full bandwith for all radars](https://github.com/hfdl-observer/hfdlobserver888)
 
-[Kiwi client works with web-888, so it enables to record wav, etc](https://github.com/jks-prv/kiwiclient)
+[Kiwi client works with web-888, so it enables to record wav, provide interface for schedule repeated task using cron](https://github.com/jks-prv/kiwiclient)
+
+[Supresdr works with web-888, enables to record wav, etc]([https://github.com/jks-prv/kiwiclient](https://github.com/mcogoni/supersdr))
 
 
 
