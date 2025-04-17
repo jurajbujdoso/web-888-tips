@@ -1,4 +1,33 @@
 # web-888-using-ssh-key
+ Have o look on the: https://www.rx-888.com/web/guide/config.html
+
+```
+#you can add package by
+apk add your-package-name
+
+#have a look on https://www.rx-888.com/web/guide/console.html
+
+#to fix your curret state after install app
+lbu commit -d
+#By default, host key is regenerated every reboot. You can use the following command to store the change to sd-card.
+```
+
+If you do not seve your static key, you would be notify that key change after each reboot.
+
+```
+#vi .ssh/config
+
+Host CHANGE_to_your.sdr.IP.or.dns.rec
+   User root
+   StrictHostKeyChecking no
+   UserKnownHostsFile /dev/null
+```
+
+
+
+
+# The article bellow is outdated, keep for reference only
+
 The standard disk image does not have option to ssh to device using ssh key enabled.
 
 # 1. adding your own ssh keys script
