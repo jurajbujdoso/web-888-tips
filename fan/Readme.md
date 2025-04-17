@@ -4,7 +4,7 @@ There is a wiki link how to decrease the sound portion: https://www.rx-888.com/w
 I have not try to use oil for suppresion, in my case I have had new fan already, when it was published.
 
 
-(I have try to print some cover, to avoud damage by anymals or kids)[https://www.printables.com/model/1040709-fan-cover-for-web888]
+(I have try to print some cover, to avoud damage by animals or kids)[https://www.printables.com/model/1040709-fan-cover-for-web888]
 
 # Recommend
  I would recommend from personal experience to buy "Noctua NF-A4x10 5V, Premium Quiet Fan, 3-Pin, 5V Version".
