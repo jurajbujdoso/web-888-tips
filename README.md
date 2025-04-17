@@ -6,5 +6,5 @@
 1. [Kiwi client works with web-888, so it enables to record wav, provide interface for schedule repeated task using cron](https://github.com/jks-prv/kiwiclient)
 1. [Supersdr works with web-888, enables to record wav, etc](https://github.com/mcogoni/supersdr)
 1. [Replace cooling fan in case of noisy sound](/fan/)
-
+1. [Program which receive ft8 logs from web888 and process it on world map or provide adif file](https://github.com/jurajbujdoso/playWith-web888-ft8-logs)
 
