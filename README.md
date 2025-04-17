@@ -10,5 +10,6 @@
 
 [Supresdr works with web-888, enables to record wav, etc](https://github.com/mcogoni/supersdr)
 
+[Replace cooling fan if noisy](/fan/)
 
 
