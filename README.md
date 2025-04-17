@@ -8,7 +8,7 @@
 
 [Kiwi client works with web-888, so it enables to record wav, provide interface for schedule repeated task using cron](https://github.com/jks-prv/kiwiclient)
 
-[Supresdr works with web-888, enables to record wav, etc](https://github.com/jks-prv/kiwiclient](https://github.com/mcogoni/supersdr)
+[Supresdr works with web-888, enables to record wav, etc](https://github.com/mcogoni/supersdr)
 
 
 
